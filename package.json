@@ -11,5 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+	"engines": {
+		"node": "17.3.0"
+	},
 	"author": "John Denver Bidong"
 }
