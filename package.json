@@ -16,5 +16,6 @@
 	"engines": {
 		"node": "17.3.0"
 	},
-	"author": "John Denver Bidong"
+	"author": "John Denver Bidong",
+	"license": "MIT"
 }
