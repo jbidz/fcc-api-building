@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.10.2"
+		"moment": "~2.10.2"
 	},
 	"version": "1.0.0",
 	"description": "first project in fcc backend development and api",
