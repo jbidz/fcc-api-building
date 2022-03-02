@@ -5,7 +5,7 @@
 	},
 	"description": "first project in fcc backend development and api",
 	"main": "server.js",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"scripts": {
 		"start": "node server.js"
 	},
